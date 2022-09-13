@@ -7,6 +7,10 @@ public class sampletest {
 	@Test
 	public void test() {
 		System.out.println(" i am in hyderabad");
+		System.out.println(" i am in KPHB");
+		System.out.println(" i am in road3");
+
+		
 	}
 
 }
