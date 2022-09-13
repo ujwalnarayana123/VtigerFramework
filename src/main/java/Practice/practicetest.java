@@ -8,5 +8,11 @@ public class practicetest {
 	public void launch() {
 		System.out.println("my name is ujwal");
 	}
+	
+	@Test
+	public void exit() {
+		System.out.println("exit the work space");
+			
+	}
 
 }
