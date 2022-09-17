@@ -14,6 +14,8 @@ public class practicetest {
 	@Test
 	public void enterdata() {
 		System.out.println("enterdata");
+		System.out.println("enter2linedata");
+		
 	}
 
 	@Test
