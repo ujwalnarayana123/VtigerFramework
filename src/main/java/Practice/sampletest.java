@@ -10,6 +10,7 @@ public class sampletest {
 		System.out.println(" i am in KPHB");
 		System.out.println(" i am in road3");
 
+		System.out.println(" i am in srpt ");
 		
 	}
 
